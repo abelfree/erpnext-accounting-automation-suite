@@ -1,8 +1,8 @@
 app_name = "accounting_automation"
 app_title = "Accounting Automation"
-app_publisher = "Portfolio"
+app_publisher = "Abel Takele"
 app_description = "Invoice and reconciliation automation"
-app_email = "dev@example.com"
+app_email = "abel.takele@example.com"
 app_license = "MIT"
 
 scheduler_events = {
